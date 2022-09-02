@@ -1,0 +1,2 @@
+#!/bin/bashs
+chmod 753 hello
